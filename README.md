@@ -19,7 +19,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />][website]
 [<img align="left" alt="wordpress" width="26px" src="https://avatars.githubusercontent.com/u/276006?s=200&v=4" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" />][website]
