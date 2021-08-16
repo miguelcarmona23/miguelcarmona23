@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" />][website]
