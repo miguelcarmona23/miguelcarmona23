@@ -1,6 +1,6 @@
-### Hi there, I'm Miguel Carmona 👋
+## Hi there, I'm Miguel Carmona 👋
 
-## I'm a Web Developer that specializes in Front-End Development and WordPress!!
+### I'm a Web Developer that specializes in Front-End Development and WordPress!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Becoming a full stack developer
