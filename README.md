@@ -4,13 +4,13 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Becoming a full stack developer
 - ⚡ Fun fact: I love to watch movies and like to keep up-to-date on all tech related things
+- 👨‍💻 All of my projects are available [here](https://miguelcarmona.netlify.app/)
+
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miguelcarmona23" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguelcarmona23" height="30" width="40" /></a>
-</p>
-<a href="https://miguelcarmona.netlify.app" target="_blank" title="Miguel Carmona Portfolio" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/49/49918.png" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
