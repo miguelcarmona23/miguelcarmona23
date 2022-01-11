@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Web Developer that specializes in Front-End Development and WordPress!!</h3>
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Becoming a full stack developer
+- 🥅 2022 Goals: Becoming a full stack developer
 - ⚡ Fun fact: I love to watch movies and like to keep up-to-date on all tech related things
 - 👨‍💻 All of my projects are available [here](https://miguelcarmona.netlify.app/)
 
